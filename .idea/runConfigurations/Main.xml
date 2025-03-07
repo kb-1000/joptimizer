@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="JetRunConfigurationType" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="de.kb1000.joptimizer.Main" />
+    <module name="joptimizer.main" />
+    <option name="PROGRAM_PARAMETERS" value="main" />
+    <shortenClasspath name="NONE" />
+    <option name="WORKING_DIRECTORY" value="build/classes/kotlin/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
