@@ -1,5 +1,5 @@
 # joptimizer
-joptimizer was supposed to be an advanced analytic bytecode analyzer, improving on my previous work as part of [bytecode-optimizer](https://github.com/kb-1000/bytecode-optimizer).
+joptimizer was supposed to be an advanced analytic bytecode optimizer, improving on my previous work as part of [bytecode-optimizer](https://github.com/kb-1000/bytecode-optimizer).
 
 It was never finished, and this is an archive of its last development state.
 I won't work on it again, though I might try to revisit the concept in a new project in future.
